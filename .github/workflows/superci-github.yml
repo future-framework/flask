@@ -1,5 +1,5 @@
-# pallets/flask's tests.yaml: tests (python 3.14, ubuntu-latest), for the Superaction scoreboard.
-name: Superaction (GitHub)
+# pallets/flask's tests.yaml: tests (python 3.14, ubuntu-latest), for the SuperCI scoreboard.
+name: SuperCI (GitHub)
 
 on:
   workflow_dispatch: {}
